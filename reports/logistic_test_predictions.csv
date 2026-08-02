@@ -1,0 +1,205 @@
+Employee_ID,Department,Region,Status,Actual_Attrition,Predicted_Attrition,Attrition_Probability
+EMP1547,Sales,New York,Pending,0,0,0.4045
+EMP1151,DevOps,Florida,Active,0,1,0.6513
+EMP1580,Finance,Nevada,Inactive,1,1,0.6722
+EMP1500,Cloud Tech,Texas,Pending,0,0,0.3511
+EMP1047,Sales,Illinois,Active,0,0,0.438
+EMP1708,Cloud Tech,Nevada,Active,0,0,0.398
+EMP1839,DevOps,New York,Inactive,1,0,0.4165
+EMP1020,HR,New York,Active,0,0,0.4184
+EMP1748,Admin,Nevada,Pending,0,1,0.657
+EMP1563,Admin,Illinois,Active,0,1,0.5421
+EMP1085,DevOps,New York,Active,0,0,0.4594
+EMP1846,DevOps,California,Inactive,1,0,0.4857
+EMP1799,HR,New York,Active,0,0,0.4694
+EMP1791,Sales,Florida,Active,0,0,0.4419
+EMP1347,Cloud Tech,California,Inactive,1,0,0.3386
+EMP1369,Sales,Florida,Inactive,1,1,0.5449
+EMP1801,Sales,California,Pending,0,0,0.4913
+EMP1174,Sales,Illinois,Pending,0,0,0.4281
+EMP1694,HR,Nevada,Active,0,1,0.5137
+EMP1031,DevOps,Illinois,Active,0,0,0.4732
+EMP1860,Finance,Florida,Pending,0,1,0.5807
+EMP1556,Sales,Nevada,Active,0,1,0.6138
+EMP1189,HR,Nevada,Pending,0,1,0.5635
+EMP1995,Finance,California,Inactive,1,1,0.5609
+EMP2015,HR,California,Active,0,1,0.6156
+EMP1948,Finance,Texas,Active,0,1,0.694
+EMP1291,DevOps,New York,Active,0,0,0.3589
+EMP1453,Sales,Florida,Active,0,0,0.4946
+EMP1714,Admin,Illinois,Pending,0,0,0.405
+EMP1874,Sales,New York,Inactive,1,0,0.3752
+EMP1770,Admin,New York,Active,0,1,0.5076
+EMP1873,HR,Texas,Pending,0,0,0.4851
+EMP1267,HR,Florida,Active,0,1,0.5679
+EMP1717,DevOps,California,Pending,0,0,0.4517
+EMP1018,Cloud Tech,Nevada,Inactive,1,0,0.3701
+EMP1527,Admin,California,Pending,0,0,0.4862
+EMP1447,Finance,Illinois,Inactive,1,0,0.4953
+EMP1029,DevOps,California,Active,0,0,0.4641
+EMP1343,Sales,California,Active,0,0,0.3528
+EMP1387,HR,Nevada,Active,0,0,0.4955
+EMP1788,Finance,Nevada,Active,0,1,0.6293
+EMP1422,HR,Texas,Pending,0,1,0.5705
+EMP1345,HR,California,Active,0,0,0.4886
+EMP1332,Finance,Texas,Inactive,1,1,0.6257
+EMP1311,Sales,Nevada,Active,0,1,0.5201
+EMP1574,Finance,New York,Pending,0,0,0.4594
+EMP1893,Sales,New York,Active,0,0,0.3742
+EMP1492,Admin,New York,Active,0,0,0.4218
+EMP1538,Finance,Texas,Inactive,1,1,0.5775
+EMP1388,DevOps,Florida,Inactive,1,1,0.632
+EMP1651,HR,Florida,Pending,0,0,0.4943
+EMP1386,Sales,California,Pending,0,0,0.4301
+EMP2008,Admin,Nevada,Inactive,1,1,0.5529
+EMP1814,DevOps,New York,Active,0,0,0.3722
+EMP1532,DevOps,California,Inactive,1,0,0.4407
+EMP1790,Admin,California,Active,0,0,0.4669
+EMP1812,Sales,New York,Pending,0,0,0.4367
+EMP1657,Finance,Texas,Active,0,1,0.5835
+EMP1726,HR,Texas,Inactive,1,0,0.4844
+EMP1003,Admin,Nevada,Inactive,1,1,0.6046
+EMP1759,Cloud Tech,Florida,Inactive,1,0,0.4522
+EMP1219,HR,Florida,Active,0,1,0.5308
+EMP1019,Admin,Illinois,Pending,0,1,0.5618
+EMP1045,HR,New York,Pending,0,0,0.4246
+EMP1537,Sales,Florida,Inactive,1,0,0.4764
+EMP1534,HR,California,Active,0,1,0.5427
+EMP1724,DevOps,New York,Active,0,0,0.4563
+EMP1837,Admin,Illinois,Inactive,1,1,0.6601
+EMP1946,Admin,Illinois,Inactive,1,0,0.4153
+EMP1677,Cloud Tech,Florida,Inactive,1,1,0.6379
+EMP1097,HR,California,Inactive,1,1,0.512
+EMP1743,Sales,California,Active,0,0,0.4402
+EMP1147,Cloud Tech,Florida,Active,0,1,0.5348
+EMP1001,Finance,Texas,Active,0,1,0.6267
+EMP1882,DevOps,Nevada,Active,0,1,0.6165
+EMP1668,Admin,Florida,Active,0,1,0.6143
+EMP1569,HR,Florida,Pending,0,1,0.6342
+EMP1253,Finance,Florida,Inactive,1,1,0.6589
+EMP1641,HR,Florida,Pending,0,1,0.5755
+EMP1080,Cloud Tech,Florida,Active,0,0,0.4075
+EMP1690,Finance,Nevada,Inactive,1,1,0.6387
+EMP1497,DevOps,Florida,Pending,0,1,0.58
+EMP1232,Finance,California,Pending,0,0,0.4837
+EMP1171,HR,Nevada,Inactive,1,1,0.5802
+EMP1836,Cloud Tech,California,Inactive,1,0,0.3406
+EMP1089,Admin,Nevada,Pending,0,1,0.6022
+EMP1185,Finance,Illinois,Inactive,1,0,0.469
+EMP1493,HR,California,Inactive,1,0,0.4772
+EMP1349,Admin,Texas,Active,0,0,0.4978
+EMP1981,DevOps,California,Pending,0,0,0.4689
+EMP1064,Admin,New York,Active,0,0,0.4662
+EMP1659,Admin,California,Inactive,1,0,0.3832
+EMP1265,Sales,Illinois,Active,0,0,0.4175
+EMP1976,DevOps,Florida,Inactive,1,1,0.5505
+EMP1279,Sales,Nevada,Pending,0,1,0.5318
+EMP1997,Finance,Illinois,Inactive,1,1,0.5244
+EMP1142,Sales,Nevada,Pending,0,1,0.5693
+EMP1792,DevOps,Texas,Inactive,1,1,0.5646
+EMP1802,Admin,New York,Active,0,0,0.442
+EMP1361,Finance,Texas,Active,0,1,0.6862
+EMP1670,Admin,New York,Pending,0,0,0.4481
+EMP1231,DevOps,Florida,Inactive,1,1,0.5836
+EMP1698,DevOps,Florida,Inactive,1,0,0.4984
+EMP1143,Sales,California,Active,0,0,0.4198
+EMP1070,Finance,California,Active,0,1,0.5056
+EMP1967,DevOps,Florida,Inactive,1,1,0.5891
+EMP1570,DevOps,California,Inactive,1,0,0.3961
+EMP1593,Admin,Illinois,Pending,0,0,0.4443
+EMP1055,Sales,California,Active,0,0,0.4216
+EMP1562,Admin,California,Active,0,0,0.448
+EMP1664,DevOps,Illinois,Pending,0,0,0.494
+EMP1223,Cloud Tech,California,Pending,0,0,0.4014
+EMP1943,HR,Illinois,Pending,0,0,0.4727
+EMP1986,Finance,Nevada,Active,0,1,0.6049
+EMP1619,Finance,Nevada,Active,0,1,0.7439
+EMP1217,HR,New York,Inactive,1,0,0.4606
+EMP1669,Finance,Illinois,Active,0,1,0.6213
+EMP1324,Sales,New York,Inactive,1,0,0.365
+EMP1830,Cloud Tech,Illinois,Inactive,1,0,0.3861
+EMP2007,DevOps,Texas,Active,0,1,0.5758
+EMP1360,Admin,Nevada,Pending,0,1,0.5739
+EMP1695,HR,Illinois,Pending,0,0,0.4218
+EMP1124,Admin,Florida,Active,0,1,0.5649
+EMP1307,Cloud Tech,Texas,Pending,0,0,0.3873
+EMP1599,HR,Illinois,Pending,0,0,0.4169
+EMP1737,DevOps,Illinois,Inactive,1,0,0.488
+EMP1434,Finance,California,Inactive,1,0,0.4684
+EMP1312,DevOps,Nevada,Inactive,1,1,0.5485
+EMP1901,DevOps,Florida,Active,0,0,0.4353
+EMP1864,Sales,Texas,Inactive,1,0,0.3803
+EMP1852,Admin,Texas,Pending,0,1,0.5709
+EMP1559,DevOps,New York,Pending,0,0,0.4042
+EMP1100,Cloud Tech,Texas,Pending,0,0,0.4349
+EMP1456,HR,California,Active,0,1,0.5256
+EMP1115,Sales,Florida,Pending,0,1,0.509
+EMP1083,DevOps,California,Inactive,1,0,0.4483
+EMP1269,Sales,Florida,Active,0,0,0.4377
+EMP1240,DevOps,Texas,Pending,0,1,0.5273
+EMP1152,Cloud Tech,New York,Pending,0,0,0.4089
+EMP1585,Sales,New York,Active,0,0,0.3068
+EMP1194,HR,Texas,Pending,0,0,0.4843
+EMP1843,DevOps,Illinois,Active,0,0,0.4482
+EMP1348,Sales,New York,Pending,0,0,0.3331
+EMP1166,Sales,Illinois,Inactive,1,0,0.499
+EMP1777,Cloud Tech,Florida,Pending,0,1,0.5224
+EMP1800,HR,New York,Active,0,0,0.4977
+EMP1444,DevOps,Illinois,Active,0,0,0.4689
+EMP1433,Cloud Tech,New York,Inactive,1,0,0.3481
+EMP1224,DevOps,New York,Active,0,0,0.4588
+EMP1646,DevOps,New York,Active,0,0,0.4239
+EMP1610,Finance,California,Pending,0,1,0.5764
+EMP1700,DevOps,Illinois,Inactive,1,1,0.5435
+EMP1796,Sales,Nevada,Active,0,1,0.5058
+EMP1127,Sales,Illinois,Inactive,1,0,0.4372
+EMP1310,HR,New York,Pending,0,0,0.3915
+EMP1488,HR,Florida,Pending,0,1,0.5981
+EMP1546,Finance,Florida,Active,0,1,0.552
+EMP1283,DevOps,Nevada,Active,0,1,0.5493
+EMP1346,Cloud Tech,Texas,Inactive,1,0,0.4071
+EMP1553,Finance,Nevada,Pending,0,1,0.6861
+EMP1857,Cloud Tech,Texas,Active,0,0,0.4623
+EMP1941,Sales,Texas,Active,0,0,0.4815
+EMP1136,Finance,Illinois,Pending,0,0,0.4419
+EMP1412,Admin,New York,Pending,0,0,0.4648
+EMP1132,Finance,California,Pending,0,1,0.5488
+EMP1682,HR,Texas,Active,0,1,0.585
+EMP1048,Admin,Nevada,Active,0,1,0.5204
+EMP1006,Admin,Nevada,Active,0,1,0.6255
+EMP1919,Admin,Texas,Active,0,1,0.5993
+EMP1611,Admin,Nevada,Inactive,1,1,0.6282
+EMP1292,DevOps,California,Pending,0,0,0.4399
+EMP1692,Admin,Texas,Active,0,1,0.5149
+EMP1650,Admin,Illinois,Active,0,1,0.5441
+EMP1478,Sales,Illinois,Pending,0,0,0.3343
+EMP1848,HR,Illinois,Active,0,0,0.4741
+EMP1183,DevOps,Florida,Active,0,1,0.5632
+EMP1648,Sales,Texas,Pending,0,0,0.4829
+EMP1905,Cloud Tech,California,Inactive,1,0,0.3378
+EMP1328,DevOps,New York,Active,0,0,0.4121
+EMP1222,Cloud Tech,California,Active,0,0,0.3496
+EMP1289,Admin,New York,Inactive,1,1,0.669
+EMP1765,Cloud Tech,California,Inactive,1,0,0.4185
+EMP1797,HR,Texas,Pending,0,1,0.5303
+EMP1643,Finance,California,Pending,0,1,0.5773
+EMP2009,Finance,Illinois,Pending,0,0,0.4851
+EMP1397,Finance,Nevada,Active,0,1,0.6217
+EMP1856,Admin,Illinois,Inactive,1,0,0.4032
+EMP1798,Cloud Tech,Illinois,Pending,0,0,0.297
+EMP1393,Finance,California,Pending,0,1,0.5711
+EMP1107,Cloud Tech,Florida,Inactive,1,0,0.4506
+EMP1246,Sales,New York,Inactive,1,0,0.3913
+EMP1181,DevOps,California,Active,0,0,0.4172
+EMP1101,Cloud Tech,Illinois,Inactive,1,0,0.3739
+EMP1467,Sales,Illinois,Inactive,1,0,0.3468
+EMP1879,Admin,New York,Pending,0,0,0.4332
+EMP1945,DevOps,Nevada,Pending,0,1,0.5706
+EMP1731,Admin,California,Pending,0,0,0.48
+EMP1120,HR,Illinois,Active,0,0,0.4849
+EMP1039,HR,Texas,Active,0,1,0.5991
+EMP1281,Sales,New York,Inactive,1,0,0.3612
+EMP1849,Sales,Texas,Pending,0,0,0.4849
+EMP1286,Sales,Florida,Inactive,1,1,0.5702
+EMP1263,HR,Illinois,Inactive,1,0,0.3826
+EMP1341,Sales,Illinois,Inactive,1,0,0.3574

@@ -1,0 +1,7 @@
+Department,employee_count,inactive_count,average_salary,remote_work_rate,average_performance,inactive_rate
+Admin,166,51,85257.17,51.81,2.63,30.72
+Cloud Tech,146,42,84981.1,48.63,2.56,28.77
+DevOps,189,58,86011.31,52.91,2.53,30.69
+Finance,170,62,82255.62,50.59,2.49,36.47
+HR,171,49,85474.7,46.78,2.59,28.65
+Sales,178,50,86895.9,50.56,2.66,28.09
